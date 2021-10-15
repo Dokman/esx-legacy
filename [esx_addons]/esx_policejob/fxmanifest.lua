@@ -49,5 +49,5 @@ client_scripts {
 dependencies {
 	'es_extended',
 	'esx_billing',
-	'esx_vehicleshop'
+	'renzu_vehicleshop'
 }
